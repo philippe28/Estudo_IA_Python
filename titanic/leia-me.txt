@@ -1,0 +1,7 @@
+instale o Anaconda tem todas as dependencia 
+execute o analise.ipynb pela Anaconda
+tem um botao de player e só ir apertando
+caso queira mudar a regra e so mexer na linha 8 criando e modificando os ifs
+1 sobrevive 0 morre
+
+cria um data.csv na mesma pasta depois que preenchela (é so ficar dando player) manda para submissão
